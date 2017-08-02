@@ -30,11 +30,15 @@ Please see how you help and contribute in the [What can I do?](#what-can-i-do) a
 
 If you are an organizer or part of a meetup that is not listed here and don't have a Code of Conduct, **please** bring it up with the organizers of the meetup. If you are wanting to be an ally of underrepresented groups in tech, this is a good first step. 
 
+It is also important to remember to clearly explain how to report potential Code of Conduct violations and what the reporting experience is like. 
+
 I'm also open to helping you establish a Code of Conduct within your meetup. 
 
 ## Resources
 
 Ashe Dryden has created a comprehensive page of [Code of Conduct resources](https://www.ashedryden.com/blog/codes-of-conduct-101-faq). If you are looking for why your organization or meetup needs a Code of Conduct or have other questions related to Code of Conducts, I highly recommend it.
+
+Audrey Eschright has a great talk on [Enforcing Your Code of Conduct: Effective Incident Response](https://youtu.be/nizfHxg8y3o), which can help you think about incident response and reporting guidelines within your Code of Conduct. 
 
 TODO: Add more resources
 
