@@ -1,7 +1,7 @@
 # Austin Tech Meetups
 ### A comprehensive list of Austin Tech Meetups with Codes of Conduct
 
-After cataloging over 50 popular Austin Tech Meetups, I have found only about ~27% have a Code of Conduct of some kind. 
+After cataloging over 50 popular Austin Tech Meetups, I have found only about ~27% have a Code of Conduct of some kind. Codes of Conduct are important to create more diverse and inclusive communities. 
 
 ## Meetups
 
@@ -24,12 +24,18 @@ After cataloging over 50 popular Austin Tech Meetups, I have found only about ~2
 |Women in Data Science|https://www.meetup.com/Women-in-Data-Science-ATX/|Yes|
 |Women Who Code Austin|https://www.meetup.com/Women-Who-Code-Austin/|Yes|
 
-## Contributions
+## What can I do?
 
-If you would like the pull request your meetup that has a Code of Conduct, I will happily accept. 
+If you are an organizer or part of a meetup that is not listed here and don't have a Code of Conduct. Please bring it up with the organizers. If you are wanting to be an ally of underrepresented groups in tech, this is a good first step. 
 
-I am also looking for PRs that has links directly to the Code of Conducts for each meetup and more Code of Conduct resources, especially around Reporting Guidelines. 
+I'm also open to helping you establish a Code of Conduct within your meetup. 
 
 ## Resources
 
-Ashe Dryden has created a comprehensive page of [Code of Conduct resources](https://www.ashedryden.com/blog/codes-of-conduct-101-faq). If you are looking for why your organization or meetup needs a Code of Conduct or have other questions related to Code of Conducts, I highly recommend it. Also, it includes 
+Ashe Dryden has created a comprehensive page of [Code of Conduct resources](https://www.ashedryden.com/blog/codes-of-conduct-101-faq). If you are looking for why your organization or meetup needs a Code of Conduct or have other questions related to Code of Conducts, I highly recommend it.
+
+## Contributions
+
+If you would like submit a pull request adding a meetup that has a Code of Conduct, I will happily accept. 
+
+I am also looking for PRs that has links directly to the Code of Conducts for each meetup and more Code of Conduct resources, especially around Reporting Guidelines.
