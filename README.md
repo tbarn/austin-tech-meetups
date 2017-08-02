@@ -1,2 +1,35 @@
-# austin-tech-meetups
-A comprehensive list of Austin Tech Meetups with Codes of Conduct
+# Austin Tech Meetups
+### A comprehensive list of Austin Tech Meetups with Codes of Conduct
+
+After cataloging over 50 popular Austin Tech Meetups, I have found only about ~27% have a Code of Conduct of some kind. 
+
+## Meetups
+
+|Meetup|Meetup URL|Code of Conduct|
+| ------ | ------ | ------ |
+|Austin Go Language User Group|https://www.meetup.com/atxgolang/|Yes|
+|Austin JavaScript|http://austinjavascript.com/|Yes|
+|Austin Web Python|https://www.meetup.com/austinwebpythonusergroup/|Yes|
+|ChickTech Austin|https://www.meetup.com/ChickTech-Austin/|Yes|
+|Ember ATX|http://emberatx.org/|Yes|
+|Girl Develop It Austin|https://www.meetup.com/Girl-Develop-It-Austin/|Yes|
+|Lesbians Who Tech|https://lesbianswhotech.org/events/city/austin/|Yes|
+|MaptimeATX|https://www.meetup.com/MaptimeATX/|Yes|
+|Open Austin|https://www.meetup.com/Open-Austin/|Yes|
+|PyData Austin|https://www.meetup.com/PyData-Austin/|Yes|
+|PyLadies ATX|https://www.meetup.com/PyLadies-ATX/|Yes|
+|Refresh Austin|https://www.meetup.com/Austin-Web-Design/|Yes|
+|Talkabot|https://www.meetup.com/Talkabot/|Yes|
+|Weird Swift ATX|https://www.meetup.com/Weird-Swift-ATX/|Yes|
+|Women in Data Science|https://www.meetup.com/Women-in-Data-Science-ATX/|Yes|
+|Women Who Code Austin|https://www.meetup.com/Women-Who-Code-Austin/|Yes|
+
+## Contributions
+
+If you would like the pull request your meetup that has a Code of Conduct, I will happily accept. 
+
+I am also looking for PRs that has links directly to the Code of Conducts for each meetup and more Code of Conduct resources, especially around Reporting Guidelines. 
+
+## Resources
+
+Ashe Dryden has created a comprehensive page of [Code of Conduct resources](https://www.ashedryden.com/blog/codes-of-conduct-101-faq). If you are looking for why your organization or meetup needs a Code of Conduct or have other questions related to Code of Conducts, I highly recommend it. Also, it includes 
