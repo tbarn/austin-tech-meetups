@@ -9,8 +9,9 @@ Please see how you help and contribute in the [What can I do?](#what-can-i-do) a
 
 |Meetup|Meetup URL|Code of Conduct|
 | ------ | ------ | ------ |
+|Austin Computer Book Club|http://austin.computerbook.club/|[Yes](http://austin.computerbook.club/code-of-conduct/)|
 |Austin Go Language User Group|https://www.meetup.com/atxgolang/|Yes|
-|Austin JavaScript|http://austinjavascript.com/|Yes|
+|Austin JavaScript|http://austinjavascript.com/|[Yes](http://austinjavascript.com/austinjs-code-of-conduct/)|
 |Austin Web Python|https://www.meetup.com/austinwebpythonusergroup/|Yes|
 |ChickTech Austin|https://www.meetup.com/ChickTech-Austin/|Yes|
 |Ember ATX|http://emberatx.org/|Yes|
@@ -25,7 +26,7 @@ Please see how you help and contribute in the [What can I do?](#what-can-i-do) a
 |Talkabot|https://www.meetup.com/Talkabot/|Yes|
 |Weird Swift ATX|https://www.meetup.com/Weird-Swift-ATX/|Yes|
 |Women in Data Science|https://www.meetup.com/Women-in-Data-Science-ATX/|Yes|
-|Women Who Code Austin|https://www.meetup.com/Women-Who-Code-Austin/|Yes|
+|Women Who Code Austin|https://www.meetup.com/Women-Who-Code-Austin/|[Yes](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md)|
 
 ## What can I do?
 
