@@ -3,7 +3,7 @@
 
 After cataloging over 50 popular Austin Tech Meetups, I have found only about ~27% have a Code of Conduct. Codes of Conduct are important to create more diverse and inclusive communities. 
 
-Please see how you help and contribute in the [What can I do?](#what-can-i-do) and [Contributions](#contributions) sections
+Please see how you help and contribute in the [What can I do?](#what-can-i-do) and [Contributions](#contributions) sections.
 
 ## Meetups
 
@@ -15,6 +15,7 @@ Please see how you help and contribute in the [What can I do?](#what-can-i-do) a
 |ChickTech Austin|https://www.meetup.com/ChickTech-Austin/|Yes|
 |Ember ATX|http://emberatx.org/|Yes|
 |Girl Develop It Austin|https://www.meetup.com/Girl-Develop-It-Austin/|Yes|
+|Juegos Rancheros|http://juegosrancheros.com/|Yes|
 |Lesbians Who Tech|https://lesbianswhotech.org/events/city/austin/|Yes|
 |MaptimeATX|https://www.meetup.com/MaptimeATX/|Yes|
 |Open Austin|https://www.meetup.com/Open-Austin/|Yes|
