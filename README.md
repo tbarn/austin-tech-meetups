@@ -12,6 +12,7 @@ Please see how you help and contribute in the [What can I do?](#what-can-i-do) a
 |Austin Computer Book Club|http://austin.computerbook.club/|[Yes](http://austin.computerbook.club/code-of-conduct/)|
 |Austin Go Language User Group|https://www.meetup.com/atxgolang/|Yes|
 |Austin JavaScript|http://austinjavascript.com/|[Yes](http://austinjavascript.com/austinjs-code-of-conduct/)|
+|Austin on Rails|http://www.austinonrails.org/|[Yes](http://www.austinonrails.org/code_of_conduct)|
 |Austin Web Python|https://www.meetup.com/austinwebpythonusergroup/|Yes|
 |ChickTech Austin|https://www.meetup.com/ChickTech-Austin/|Yes|
 |Ember ATX|http://emberatx.org/|Yes|
