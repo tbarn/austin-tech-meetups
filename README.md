@@ -16,6 +16,7 @@ Please see how you help and contribute in the [What can I do?](#what-can-i-do) a
 |Austin Web Python|https://www.meetup.com/austinwebpythonusergroup/|Yes|
 |ChickTech Austin|https://www.meetup.com/ChickTech-Austin/|Yes|
 |Ember ATX|http://emberatx.org/|Yes|
+|Feminist Hack ATX|https://feministhack.com/|[Yes](https://feministhack.com/code-of-conduct/)|
 |Girl Develop It Austin|https://www.meetup.com/Girl-Develop-It-Austin/|Yes|
 |Juegos Rancheros|http://juegosrancheros.com/|Yes|
 |Lesbians Who Tech|https://lesbianswhotech.org/events/city/austin/|Yes|
