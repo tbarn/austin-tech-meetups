@@ -1,4 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
+
+This Code of Conduct applies only to this repository to ensure a welcoming environment for contributions and those seeking resources. See the [README.md Resources section](README.md#resources) for examples and resources for your meetup. 
 
 ## Our Pledge
 
